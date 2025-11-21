@@ -29,8 +29,8 @@ This repository primarily uses the following technologies:
 1.  **Clone the Repository:**
    
     ```bash
-    git clone https://github.com/your-username/your-llm-repo.git
-    cd your-llm-repo
+    git clone https://github.com/majid-200/Practical_LLM_Applications.git
+    cd Practical_LLM_Applications
     ```
 
 2.  **Create a Virtual Environment:**
